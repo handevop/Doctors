@@ -1,0 +1,15 @@
+c:\users\antonio\Source\Repos\Doktori\Doktori\obj\Debug\Doktori.csprojAssemblyReference.cache
+c:\users\antonio\Source\Repos\Doktori\Doktori\obj\Debug\Doktori.Form1.resources
+c:\users\antonio\Source\Repos\Doktori\Doktori\obj\Debug\Doktori.Properties.Resources.resources
+c:\users\antonio\Source\Repos\Doktori\Doktori\obj\Debug\Doktori.csproj.GenerateResource.cache
+c:\users\antonio\Source\Repos\Doktori\Doktori\obj\Debug\Doktori.csproj.CoreCompileInputs.cache
+c:\users\antonio\Source\Repos\Doktori\Doktori\bin\Debug\Doktori.exe.config
+c:\users\antonio\Source\Repos\Doktori\Doktori\bin\Debug\Doktori.exe
+c:\users\antonio\Source\Repos\Doktori\Doktori\bin\Debug\Doktori.pdb
+c:\users\antonio\Source\Repos\Doktori\Doktori\obj\Debug\Doktori.exe
+c:\users\antonio\Source\Repos\Doktori\Doktori\obj\Debug\Doktori.pdb
+c:\users\antonio\Source\Repos\Doktori\Doktori\obj\Debug\Doktori.Form2.resources
+c:\users\antonio\Source\Repos\Doktori\Doktori\obj\Debug\Doktori.Form3.resources
+c:\users\antonio\Source\Repos\Doktori\Doktori\obj\Debug\Doktori.Form4.resources
+c:\users\antonio\Source\Repos\Doktori\Doktori\obj\Debug\Doktori.Form5.resources
+c:\users\antonio\Source\Repos\Doktori\Doktori\obj\Debug\Doktori.Form6.resources
